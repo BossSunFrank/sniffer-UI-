@@ -5,3 +5,4 @@
 若使用sockt网络编程模块的持续监听模式，必须以管理员身份运行。管理员身份运行cmd，然后进入所在目录，运行catch.py即可
 ![execute](https://user-images.githubusercontent.com/115724910/225799596-08701049-0c33-46c1-b8fe-8b574cffbda3.png)
 然后就可以看到启动界面了：
+![first_display](https://user-images.githubusercontent.com/115724910/225799702-befa656a-2d59-4483-be2a-6aac1fcc3e6f.png)
