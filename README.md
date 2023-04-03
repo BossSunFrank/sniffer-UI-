@@ -11,3 +11,6 @@
 ## scapymodel的启动
 这个模块直接运行即可，无需管理员。在对应命令行输入scapymodel.py或在python解释器中run均可，效果如下：<br>
 ![scapymodel](https://user-images.githubusercontent.com/115724910/229519687-0b5ce766-b85b-4776-b759-95cf6ab16b8c.png)<br>
+输入网卡名称（默认不填时为所有网卡）和拟抓包的数量（图片中为100）,点击“开始抓包”，在下部文本框中即可显示抓包结果。<br>
+再输入特定的包序号，点击“查看详情”，即可看到特定包序号的详细结构:<br>
+![详细信息](https://user-images.githubusercontent.com/115724910/229521098-8a052d04-5ade-4032-a156-0de9befbf597.png)<br>
