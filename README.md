@@ -10,3 +10,4 @@
 具体使用方式详见read_me.docx<br>
 ## scapymodel的启动
 这个模块直接运行即可，无需管理员。在对应命令行输入scapymodel.py或在python解释器中run均可，效果如下：<br>
+![scapymodel](https://user-images.githubusercontent.com/115724910/229519687-0b5ce766-b85b-4776-b759-95cf6ab16b8c.png)<br>
